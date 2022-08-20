@@ -1,0 +1,60 @@
+{
+  "team": [
+    {
+      "name": "Aleemz",
+      "image": "/1.png",
+      "role": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/aleemz",
+      "twitter": "Https://www.twitter.com/mraleemz"
+    },
+    {
+      "name": "Saiful Shuaibu",
+      "image": "/5.png",
+      "role": "Chief Operation Officer",
+      "linkedin": "https://www.linkedin.com/in/saiful-shuaibu-396006232",
+      "twitter": ""
+    },
+    {
+      "name": "Ahmed Nasir Isa",
+      "image": "/8.png",
+      "role": "Chief Marketing Officer",
+      "linkedin": "https://www.linkedin.com/in/ahmad-nasir-a8b50014a",
+      "twitter": ""
+    },
+    {
+      "name": "Kuceli Susan",
+      "image": "/4.png",
+      "role": "Executive Secretary",
+      "linkedin": "https://www.linkedin.com/in/kuceli-englama-3208581b9",
+      "twitter": ""
+    },
+    {
+      "name": "Jeff St Louis",
+      "image": "/6.png",
+      "role": "Chief Strategy Officer",
+      "linkedin": "https://www.linkedin.com/in/jeffs4",
+      "twitter": ""
+    },
+    {
+      "name": "Muawiya",
+      "image": "/7.png",
+      "role": "Chief Design Officer",
+      "linkedin": "https://www.linkedin.com/in/muawiya-jalal-eddeen",
+      "twitter": ""
+    },
+    {
+      "name": "Christian Chukwudi",
+      "image": "/3.png",
+      "role": "Chief Technology Officer",
+      "linkedin": "",
+      "twitter": "Https://www.twitter.com/mrkrcxx"
+    },
+    {
+      "name": "Junaid Khan",
+      "image": "/10.png",
+      "role": "Chief Blockchain Offier",
+      "linkedin": "https://www.linkedin.com/in/junaid-khan-4125b9142",
+      "twitter": ""
+    }
+  ]
+}

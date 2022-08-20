@@ -1,0 +1,34 @@
+{
+  "creators": [
+    {
+      "name": "firdausi",
+      "niche": "artiest",
+      "pic": "/artiest.png",
+      "link": "/firdausi.jpeg"
+    },
+    {
+      "name": "lucids street",
+      "niche": "brand",
+      "pic": "/brand.png",
+      "link": "/brand.jpeg"
+    },
+    {
+      "name": "musty",
+      "niche": "photographer",
+      "pic": "/musty.png",
+      "link": "/musty.jpeg"
+    },
+    {
+      "name": "hafsat ibrahim",
+      "niche": "writer",
+      "pic": "/writer.png",
+      "link": "/hafsat.jpeg"
+    },
+    {
+      "name": "kendo grant",
+      "niche": "cinematographer",
+      "pic": "/kendo.png",
+      "link": "https://creators-usea.streaming.media.azure.net/3515e4a5-2059-4906-b627-11c4dc989527/IMG_0220_608x1080_AACAudio_1546.mp4"
+    }
+  ]
+}

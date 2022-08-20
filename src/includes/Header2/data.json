@@ -1,0 +1,77 @@
+{
+  "product": [
+    {
+      "link": "/not-found",
+      "header": "visqorium blockchain",
+      "description": "Visqorium is a secure and decentralized proof-of-stake blockchain built to power next generation content creation."
+    },
+    {
+      "link": "fg",
+      "header": "visqore",
+      "description": "Visqore is a cutting-edge NFT Marketplace enabling Users and Creators to Collect, Trade, and Explore NFTs unprecedentedly, built on the Visqorium Blockchain."
+    },
+    {
+      "link": "fg",
+      "header": "qore wallet",
+      "description": "The Qore Wallet is the first Self-Custodial Cryptocurrency wallet built to interact with the Visqorium Blockchain."
+    }
+  ],
+  "creators": [
+    {
+      "link": "creators/niches",
+      "header": "Niche",
+      "description": "All Niches of Creators can Monetize, License, Trade and Truly own their content."
+    },
+    {
+      "link": "creators/waitlist",
+      "header": "apply for waitlist",
+      "description": "Be the first to use Visqore Beta when we go live."
+    }
+  ],
+  "developers": [
+    {
+      "link": "fg",
+      "header": "visqorium litepaper",
+      "description": "everything you need to know about visqorium."
+    },
+    {
+      "link": "fg",
+      "header": "visqore litepaper",
+      "description": "everything you need to know about visqore."
+    }
+  ],
+  "company": [
+    {
+      "link": "/career",
+      "header": "career",
+      "description": "Join us in building the future of Content Creation."
+    },
+    {
+      "link": "/company/team",
+      "header": "team",
+      "description": "the brains behind visqoriumlabs"
+    },
+    {
+      "link": "/company/team",
+      "header": "press",
+      "description": "Your one stop for all your Visqorium Press needs."
+    }
+  ],
+  "contact": [
+    {
+      "link": "/general-inquires",
+      "header": "General Inquires",
+      "description": ""
+    },
+    {
+      "link": "/partnerships",
+      "header": "partnerships",
+      "description": ""
+    },
+    {
+      "link": "",
+      "header": "press",
+      "description": "VisqoriumLabs is an NFT-centric Powerhouse that aims to explore the full potential of NFTs by fusing it with multiple industries and enhancing its usecases, all built on Visqorium’s Blockchain."
+    }
+  ]
+}

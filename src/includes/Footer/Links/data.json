@@ -1,0 +1,98 @@
+{
+  "learn": [
+    {
+      "link_name": "get qore",
+      "url_link": "/"
+    },
+    {
+      "link_name": "Staking qore",
+      "url_link": "/"
+    },
+    {
+      "link_name": "FAQ",
+      "url_link": "/"
+    },
+    {
+      "link_name": "Visqorium SDK",
+      "url_link": "/"
+    },
+    {
+      "link_name": "Qore scan",
+      "url_link": "/"
+    }
+  ],
+  "resources": [
+    {
+      "link_name": "visqorium branding kit",
+      "url_link": "/"
+    },
+    {
+      "link_name": "visqorium labs branding kit",
+      "url_link": "/"
+    },
+    {
+      "link_name": "visqorium labs",
+      "url_link": "/"
+    }
+  ],
+  "community": [
+    {
+      "icon": "/Twitter.png",
+      "link_name": "twitter",
+      "url_link": "Https://www.twitter.com/visqorium"
+    },
+    {
+      "icon": "/Instagram.png",
+      "link_name": "instagram",
+      "url_link": "Https://www.instagram.com/visqorium"
+    },
+    {
+      "icon": "/Telegram.png",
+      "link_name": "telegram",
+      "url_link": "https://t.me/visqorium"
+    },
+    {
+      "icon": "/Linkedin.png",
+      "link_name": "linkedin",
+      "url_link": "https://www.linkedin.com/company/visqorium-labs-inc/"
+    }
+  ],
+  "become_validator": [
+    {
+      "link_name": "Requirement",
+      "url_link": "/"
+    },
+    {
+      "link_name": "setting up a validators node",
+      "url_link": "/"
+    }
+  ],
+  "contact": [
+    {
+      "header" : "for general inquiries",
+      "email" : "info@visqoriumlabs.io"
+    },
+    {
+      "header" : "for press",
+      "email" : "press@visqoriumlabs.io"
+    },
+    {
+      "header" : "for partnerships",
+      "email" : "partnership@visqoriumlabs.io"
+    }
+  ],
+  "company": [
+    {
+      "title": "about us",
+      "link": "/company/aboutus"
+    },
+    {
+      "title": "team",
+      "link": "/company/team"
+    },
+    {
+      "title": "products",
+      "link": "/products"
+    }
+  ]
+}

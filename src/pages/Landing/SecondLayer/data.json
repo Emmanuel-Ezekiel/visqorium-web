@@ -1,0 +1,28 @@
+{
+  "niche": [
+    {
+      "title": "artist",
+      "icon": "/artist.png"
+    },
+    {
+      "title": "brands",
+      "icon": "/brand.png"
+    },
+    {
+      "title": "influencer",
+      "icon": "/musician.png"
+    },
+    {
+      "title": "cinematographer",
+      "icon": "/cinema.png"
+    },
+    {
+      "title": "writer",
+      "icon": "/artist.png"
+    },
+    {
+      "title": "photographer",
+      "icon": "/photographer.png"
+    }
+  ]
+}
